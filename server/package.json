@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is graphql server",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Gagandeep Kaur",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.8.1",
+    "express-graphql": "^0.12.0"
+  }
+}
